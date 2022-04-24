@@ -1,0 +1,29 @@
+{
+  "name": "Static-Node.js-and-Express-Site",
+  "version": "1.0.0",
+  "description": "create a  portfolio site to showcase the great projects I've built. The site will contain a modern landing page, an about page contains contact info, talk a little about myself, and a series of project pages to show off and detail.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhaled19/Static-Node.js-and-Express-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhaled19/Static-Node.js-and-Express-Site/issues"
+  },
+  "homepage": "https://github.com/Akhaled19/Static-Node.js-and-Express-Site#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.4"
+  }
+}

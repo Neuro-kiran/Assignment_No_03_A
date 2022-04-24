@@ -1,0 +1,51 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "A random quote generator is an webpage that displays random quotes by famous novelists each time the button 'Show another quote' is clicked. The webpage also chooses random background colors from an array. The webpage always displays information like: quote, source, and sometimes citation and year if this properties exists in object." ,
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://akhaled19.github.io/Unit-1---Random-Quote-Generator/",
+            "github_link": "https://github.com/Akhaled19/Unit-1---Random-Quote-Generator",
+            "image_urls": ["/static/images/project1_main.png", "/static/images/project1_randomly.png"]
+      
+        },
+        {
+            "id": "1" ,
+            "project_name": "List Pagination and Filtering",
+            "description": "Navigate through a list of 54 student names, photos, and email addresses by displaying 10 students at a time, and adding a series of links at the bottom of the page-to let users click through the other student entries, 10 at a time. These improvements are done by using the principle of 'progressive enhancement'. ",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://akhaled19.github.io/2-List-Pagination-and-Filtering/#",
+            "github_link": "https://github.com/Akhaled19/2-List-Pagination-and-Filtering",
+            "image_urls": ["/static/images/project2_main.png", "/static/images/project2_pagination.png"]
+        },
+        {
+            "id": "2" ,
+            "project_name": "Interaction Form Validation",
+            "description": " The interactive user-friendly form uses customized, conditional behavior, and interactivity. The form also validates user input and provide helpful error messages when the user enters invalid information into the form fields. Some real time validation. Show calculated total cost of activities selected. Some information is dependent on chosen options in drop down lists.",
+            "technologies": ["JavaScript", "jQuery", "CSS", "HTML"],
+            "live_link": "https://akhaled19.github.io/Unit3-Build-an-Interactive-Form/",
+            "github_link": "https://github.com/Akhaled19/Unit3-Build-an-Interactive-Form",
+            "image_urls": ["/static/images/project3_main.png","/static/images/project3_allValidations.png", "/static/images/project3_realTimeValidation.png"]
+        },
+        {
+            "id": "3" ,
+            "project_name": "Object Oriented Programming Game Show",
+            "description": "This is a Object Oriented Program for a phrase guessing game. The program takes a random phrase from a list of phrases and then displays it on the screen hidden from view. The user can click the onscreen keyboard with a mouse to guess letters in the phrase. If you have five guesses that are incorrect the game ends and the player loses. If you find all letters in the phrase before your lives run out, the game ends and the player wins.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://akhaled19.github.io/Unit4-OOP_Game_Show_App/",
+            "github_link": "https://github.com/Akhaled19/Unit4-OOP_Game_Show_App",
+            "image_urls":["/static/images/project4_main.png", "/static/images/project4_BlankScreen.png", "/static/images/project4_duringGame.png", "/static/images/project4_loosesScreen.png", "/static/images/project4_winScreen.png"]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Request",
+            "description": "Built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. Used Random User Generator API to grab information for 12 random U.S.A based 'employees,' and use that data to build Awesome Startup prototype. This project demonstrates ability to work with public APIs, making API requests, and asynchronously handling data.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://akhaled19.github.io/Unit5-public_api_request/",
+            "github_link": "https://github.com/Akhaled19/Unit5-public_api_request",
+            "image_urls": ["/static/images/project5_main.png", "/static/images/project5_modal.png", "/static/images/project5_noResultSearch.png"]  
+           
+        }
+    ]
+}
